@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chiffres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="number">##</string>
+    <string name="play_button">Play Button</string>
+    <string name="score_zero">0</string>
+    <string name="hint_guess">Type number here</string>
+    <string name="guess">Guess</string>
+    <string name="show">Show</string>
+    <string name="text_this_streak">This Streak</string>
+    <string name="text_longest_streak">Longest Streak</string>
+    <string name="message_welcome">Welcome! Press the button below to listen to the number, and then make your guess.</string>
+
+</resources>
